@@ -32,10 +32,10 @@ Decorator Pattern – Coffee ordering system with add-ons such as milk and sugar
 
 Exercise 2: Smart Home System
 
-Problem Statement
+Problem Statement:
 Create a simulation for a Smart Home System that allows the user to control devices such as lights, thermostats, and door locks via a central hub.
 
-Functionalities
+Functionalities :
 
 Initialize the system with different devices (light, thermostat, door lock).
 
@@ -45,9 +45,9 @@ Schedule devices to activate at a specific time.
 
 Automate tasks (for example, turning off lights when the temperature rises above a set level).
 
-Optionally, add or remove devices dynamically.
+Add or remove devices dynamically.
 
-Design Patterns Used
+Design Patterns Used :
 
 Observer Pattern (Behavioral) – Used to update devices whenever a change occurs in the system.
 
